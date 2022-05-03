@@ -57,8 +57,8 @@ body:after {
 .card {
     width: 150px;
     height: 150px ;
-    background: url('./img/1.png.jpeg') 0 0 no-repeat;
-    background-size: contain;
+    background-color: #0076fa;
+    user-select: none;
     position: absolute;
     /* 
     卡片区域  水平 垂直 区域 都是 0 ~ calc(100% - 150px) 
